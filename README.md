@@ -1,7 +1,7 @@
-# How to use
+# How to use:
 Easy, just drag and drop the cmd to the main project where the .sln is located and open the cmd and it will build it.
 
-# How to use (APP VERSION) (RECOMMENDED)
+# How to use (APP VERSION) (RECOMMENDED):
 Easy,
 
 Steps:
@@ -20,3 +20,6 @@ Steps:
 # For new codders:
 1. The [Reactor Docs](https://docs.reactor.gg/) will tell you mostly everything you need
 2. Have Fun Coding 🙂
+
+# Preview:
+![image](https://user-images.githubusercontent.com/78909975/125517873-20e7991f-8647-4842-abf6-e49f035d84c2.png)
