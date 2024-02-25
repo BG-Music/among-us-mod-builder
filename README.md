@@ -22,4 +22,3 @@ Steps:
 2. Have Fun Coding 🙂
 
 # Preview:
-![image](https://user-images.githubusercontent.com/78909975/125517873-20e7991f-8647-4842-abf6-e49f035d84c2.png)
