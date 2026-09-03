@@ -17,7 +17,7 @@ Steps:
 2. Make sure you have [Dotnet 5.0](https://dotnet.microsoft.com/)
 3. Make sure you have the Sytem Varible with name AmongUs and value "C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\plugins" or where every your Among Us Directory is located at.
 
-# For new codders:
+# For new coders:
 1. The [Reactor Docs](https://docs.reactor.gg/) will tell you mostly everything you need
 2. Have Fun Coding 🙂
 
